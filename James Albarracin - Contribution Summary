@@ -1,0 +1,5 @@
+I mainly led the data standardization efforts, making sure that all the datasets followed consistent naming conventions, 
+formats, and data types to enable successful integration. I also played a major role in merging the datasets, as well as refining 
+the join logic using shared identifiers such as team name and season. Additionally, I actively looked for and debugged any 
+integration issues that came up, including resolving duplicate records and addressing failed merges, which help ensure the 
+accuracy and reliability of the combined dataset.
